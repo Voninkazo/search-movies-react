@@ -1,0 +1,17 @@
+ont-face {
+    font-family: 'poppins';
+    src: url('/poppins-bold.49767633.woff2') format('woff2'), url('/poppins-bold.e7e7e085.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/poppins-regular.f078ce5a.woff2') format('woff2'), url('/poppins-regular.ea1aea9a.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*# sourceMappingURL=/fonts.8fb1511d.css.map */
