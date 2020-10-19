@@ -1,0 +1,26 @@
+{
+    "name": "search-movies-react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Voninkazo/search-movies-react.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Voninkazo/search-movies-react/issues"
+    },
+    "homepage": "https://github.com/Voninkazo/search-movies-react#readme",
+    "dependencies": {
+        "react": "^16.14.0",
+        "react-dom": "^16.14.0"
+    },
+    "browserslist": [
+        "last 1 chrome version"
+    ]
+}
